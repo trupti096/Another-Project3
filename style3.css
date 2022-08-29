@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(250, 175, 250);
+}
+h1 {
+    color:#6166B3;
+    font-size: 150px;
+}
+
+img:hover {
+    background-color: goldenrod;
+}
+
+.vanilla {
+    background-color: rgb(9, 77, 35);
+}
+
+.dairymilk {
+    background-color: rgb(77, 9, 9);
+}
